@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Vistaprint Ad</title>
+        
+    <style>
+        
+        
+        body{
+            background-color: darkmagenta;
+                color: dodgerblue;
+        }
+        
+        div{
+            margin: auto;
+            width: 50%; 
+            text-align: center;
+        }
+        
+        h1{
+          font-size: 120px;  
+        }
+        #money{
+            background-color: white;
+            color:darkmagenta
+        }
+        
+        
+        
+    </style>
+ </head>
+
+  <body>
+      <div>
+      <h2>You picked a great day to shop.</h2>
+      
+      
+      
+          <h5>You received Vistaprint Cash with today's order. Feels good, doesn't it?</h5>
+          
+          <div id="money">
+              <h1>$30</h1>
+              <h2>VistaprintCash</h2>
+              <h4>Combinable with other offers.</h4>
+              <p>Redeem 7/31/2019 – 8/11/2019</p>
+          </div>
+          
+          
+          <ul>
+          
+              <li>Come back to cash in 7/31/2019 – 8/11/2019</li>
+          
+              <li>Combine it with any Vistaprint offer</li>
+          
+              <li>No promo code needed – you'll see it at checkout, just click to redeem.</li>
+          
+          </ul>
+              
+Thanks for shopping with us and enjoy your Vistaprint Cash.
+<br><br>
+
+          <a href="">Terms & Conditions</a>
+      </div>
+      
+    </body>
+    
+    
+    
+</html>

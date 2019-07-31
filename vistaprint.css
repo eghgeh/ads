@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Vistaprint Ad</title>
+        <link href="vistaprint.css"
+    <style>
+        
+        
+        body{
+            background-color: darkmagenta;
+                color: dodgerblue;
+        }
+        
+        div{
+            margin: auto;
+            width: 50%; 
+            text-align: center;
+        }
+        
+        h1{
+          font-size: 120px;  
+        }
+        #money{
+            background-color: white;
+            color:darkmagenta
+        }
+        
+        
+        
+    </style>
+ </head>
+
+  <body>
